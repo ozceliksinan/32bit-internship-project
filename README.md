@@ -1,4 +1,4 @@
-## 32 Bit - Recursive Maze Solver
+## 32 Bit Internship Project - Recursive Maze Solver
 
 It is expected that the following work will be completed and the web link of the project will be shared via e-mail or in an environment open to remote access, in order to examine the ability to program and set up algorithms.
 
