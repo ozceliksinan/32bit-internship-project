@@ -3,7 +3,7 @@ public class Main {
   /**
    *
    * @author Sinan Özçelik
-   * web site -> sinanozcelik.com
+   * @param args
    */
   public static void main(String... args) {
     Maze board = new Maze();

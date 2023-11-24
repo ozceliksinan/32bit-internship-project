@@ -21,13 +21,16 @@ class Coordinat {
 
   @Override
   public boolean equals(Object o) {
-    if (this == o) return true;
+    if (this == o)
+      return true;
 
-    if (o == null || getClass() != o.getClass()) return false;
+    if (o == null || getClass() != o.getClass())
+      return false;
 
     Coordinat coordinat = (Coordinat) o;
 
-    if (row != coordinat.row) return false;
+    if (row != coordinat.row)
+      return false;
 
     return column == coordinat.column;
   }

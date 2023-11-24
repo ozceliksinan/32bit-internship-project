@@ -140,7 +140,7 @@ public class Maze {
     }
 
     board[row][column] = 'h';
-
+    
     return false;
   }
 
