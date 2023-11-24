@@ -22,7 +22,3 @@ While developing applications, attention should be paid to the following issues:
 * Communication: ASK about the parts of the project that you do not understand or are not sure about. (You can get help at the points where you get stuck.)
 
 * Take care to write easy-to-read and understandable code. Do not forget to add "comments" where necessary.
-
-Contact e-mail for any question: info@sinanozcelik.com
-
-For more: sinanozcelik.com
